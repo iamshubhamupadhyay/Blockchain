@@ -1,4 +1,4 @@
-import java.security.MessageDigest;
+import java.security.MessageDigest
 
 public class StringUtil {
 	//Applies Sha256 to a string and returns the result. 
