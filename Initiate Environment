@@ -1,6 +1,6 @@
 import java.security.MessageDigest;
 
-public class StringUtil 
+public class StringUtil {
 	//Applies Sha256 to a string and returns the result. 
 	public static String applySha256(String input){		
 		try {
