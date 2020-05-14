@@ -16,7 +16,7 @@ public class StringUtil {
 			return hexString.toString();
 		}
 		catch(Exception e) {
-			throw new RuntimeExceptio(e);
+			throw new RuntimeException(e);
 		}
-	}	
+		
 }
